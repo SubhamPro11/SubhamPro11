@@ -16,7 +16,7 @@
 
 <!-- 🔧 Social badges — replace hrefs with your own -->
 [![GitHub](https://img.shields.io/badge/GitHub-SubhamPro11-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SubhamPro11)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/subhamkr11))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhamkr11)
 [![Portfolio](https://img.shields.io/badge/Crawlers-Visit-39FF14?style=for-the-badge&logo=googlechrome&logoColor=black)](https://crawlers.dpdns.org) <!-- 🔧 add your X handle -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SubhamPro11&style=for-the-badge&color=39FF14&labelColor=0a0e14)

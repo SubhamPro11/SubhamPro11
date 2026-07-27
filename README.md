@@ -2,6 +2,8 @@
      PROFILE README — SubhamPro11
      ============================================================ -->
 
+
+
 <div align="center">
 <img width="500" height="500" alt="Morphic Coder Logo" src="https://github.com/user-attachments/assets/bd8016f1-530c-4bd0-a7d9-2eeaeea21351" />
 
@@ -21,14 +23,13 @@
 
 <br/>
 
-##  About Me
+## About Me
 
 - Based in **India**
 - **AI / Computer Vision Engineer** & Full-Stack Builder — CSE Student, Parul University
 - **Prompt Engineering & AI Power User**: Skilled at leveraging advanced AI models, LLMs, and automated workflows to build rapidly
 - Currently building **[Crawlers](https://crawlers.dpdns.org)** — an AI tools directory organized by use case, not brand
 - Also shipped **[AuraWalls](https://aurawalls.qzz.io)** — a wallpaper discovery platform
-- Satark AI [Archived] — Real-time computer vision security monitoring system.
 - Currently deepening: **Django, Flask, PostgreSQL, Workflow Automation**
 - Open to collaborating on open-source AI tooling & full-stack web apps
 - Fun fact: my best code runs after midnight
@@ -54,9 +55,7 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
-**AI & Automation**
-<p>
-  **AI, Agents & Automation**
+**AI, Agents & Automation**
 <p>
   <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
@@ -65,7 +64,6 @@
   <img src="https://img.shields.io/badge/Prompt_Engineering-39FF14?style=for-the-badge&logo=openai&logoColor=black"/>
   <img src="https://img.shields.io/badge/AI_Agents_%26_MCP-10a37f?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vibe_Coding-7C3AED?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
 </p>
 
 **Databases**
@@ -132,7 +130,7 @@
 
 <br/>
 
-Activity & Extras
+## Activity & Extras
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/SubhamPro11/SubhamPro11/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
@@ -152,13 +150,19 @@ Activity & Extras
 
 <br/>
 
-Connect With Me
+## Connect With Me
 
 <div align="center">
   <a href="https://linkedin.com/in/subhamkr11"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/SubhamPro11"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://crawlers.dpdns.org"><img src="https://img.shields.io/badge/Crawlers-39FF14?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
   <a href="https://aurawalls.qzz.io"><img src="https://img.shields.io/badge/AuraWalls-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1500&color=39FF14&center=true&vCenter=true&width=500&lines=%24+echo+%22thanks+for+stopping+by%22;%24+ssh+build+with+me" alt="Terminal sign-off"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e14,100:39FF14&height=100&section=footer" width="100%"/>

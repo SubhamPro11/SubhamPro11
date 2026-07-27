@@ -21,21 +21,21 @@
 
 <br/>
 
-## 🚀 About Me
+##  About Me
 
-- 📍 Based in **India**
-- 🧠 **AI / Computer Vision Engineer** & Full-Stack Builder — CSE Student, Parul University
-- ⚡ **Prompt Engineering & AI Power User**: Skilled at leveraging advanced AI models, LLMs, and automated workflows to build rapidly
-- 🔭 Currently building **[Crawlers](https://crawlers.dpdns.org)** — an AI tools directory organized by use case, not brand
-- 🖼️ Also shipped **[AuraWalls](https://aurawalls.qzz.io)** — a wallpaper discovery platform
-- 🛡️ Worked on **Satark AI** — real-time surveillance & security monitoring with computer vision
-- 🌱 Currently deepening: **Django, Flask, PostgreSQL, Workflow Automation**
-- 🤝 Open to collaborating on open-source AI tooling & full-stack web apps
-- ⚡ Fun fact: my best code runs after midnight
+- Based in **India**
+- **AI / Computer Vision Engineer** & Full-Stack Builder — CSE Student, Parul University
+- **Prompt Engineering & AI Power User**: Skilled at leveraging advanced AI models, LLMs, and automated workflows to build rapidly
+- Currently building **[Crawlers](https://crawlers.dpdns.org)** — an AI tools directory organized by use case, not brand
+- Also shipped **[AuraWalls](https://aurawalls.qzz.io)** — a wallpaper discovery platform
+- Satark AI [Archived] — Real-time computer vision security monitoring system.
+- Currently deepening: **Django, Flask, PostgreSQL, Workflow Automation**
+- Open to collaborating on open-source AI tooling & full-stack web apps
+- Fun fact: my best code runs after midnight
 
 <br/>
 
-## 🛠 Tech Stack & Tools
+## Tech Stack & Tools
 
 **Languages**
 <p>
@@ -85,7 +85,7 @@
 
 <br/>
 
-## 📊 GitHub Live Stats
+## GitHub Live Stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SubhamPro11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
@@ -100,7 +100,7 @@
 
 <br/>
 
-## 🌟 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
@@ -120,7 +120,7 @@
     <td><a href="https://crawlers.dpdns.org">Live Demo</a></td>
   </tr>
   <tr>
-    <td><b>🖼️ AuraWalls</b></td>
+    <td><b>AuraWalls</b></td>
     <td>Wallpaper discovery platform</td>
     <td>
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
@@ -132,7 +132,7 @@
 
 <br/>
 
-## 📈 Activity & Extras
+Activity & Extras
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/SubhamPro11/SubhamPro11/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
@@ -152,7 +152,7 @@
 
 <br/>
 
-## 🤝 Connect With Me
+Connect With Me
 
 <div align="center">
   <a href="https://linkedin.com/in/subhamkr11"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>

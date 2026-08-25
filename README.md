@@ -5,7 +5,7 @@
 
 
 <div align="center">
-<img width="500" height="500" alt="Morphic Coder Logo" src="https://github.com/user-attachments/assets/bd8016f1-530c-4bd0-a7d9-2eeaeea21351" />
+<img width="600" height="338" alt="Morphic Coder Logo" src="https://github.com/user-attachments/assets/47b2275a-ebdd-4b7c-9c9b-10e84f0cd9fc"/>
 
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=AI+%26+Computer+Vision+Engineer;Prompt+Engineer+%26+AI+Tooling;Full-Stack+Builder+%7C+Python+%C2%B7+JS;Shipping+Crawlers+%26+AuraWalls" alt="Typing SVG"/>
@@ -86,14 +86,14 @@
 ## GitHub Live Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SubhamPro11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=SubhamPro11&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SubhamPro11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamPro11&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SubhamPro11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamPro11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>

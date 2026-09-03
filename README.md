@@ -1,14 +1,22 @@
 <!-- ============================================================
      PROFILE README — SubhamPro11
+     SYSTEM: ONLINE
      ============================================================ -->
 
 <div align="center">
 <img width="600" height="338" alt="Morphic Coder Logo" src="https://github.com/user-attachments/assets/47b2275a-ebdd-4b7c-9c9b-10e84f0cd9fc"/>
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=AI+%26+Computer+Vision+Engineer;Prompt+Engineer+%26+AI+Tooling;Full-Stack+Builder+%7C+Next.js+%C2%B7+Python;Shipping+Crawlers%2C+AuraWalls+%26+Airwaves" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=%3E+AI+%26+Computer+Vision+Engineer_;%3E+Prompt+Engineer+%26+AI+Tooling_;%3E+Full-Stack+Builder+%7C+Next.js+%C2%B7+Python_;%3E+Shipping+Crawlers%2C+AuraWalls+%26+Airwaves_" alt="Typing SVG"/>
 
 <br/>
+
+<!-- Status strip -->
+<img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=0a0e14"/>
+<img src="https://img.shields.io/badge/BUILD-PASSING-39FF14?style=for-the-badge&labelColor=0a0e14"/>
+<img src="https://img.shields.io/badge/UPTIME-24%2F7-39FF14?style=for-the-badge&labelColor=0a0e14"/>
+
+<br/><br/>
 
 <!-- Social badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-SubhamPro11-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SubhamPro11)
@@ -22,22 +30,27 @@
 
 <br/>
 
-## About Me
+## `01` · About Me
 
-- Based in **India** — Third-year CSE student at **Parul University** (Class of 2027)
+```
+$ whoami
+> Cryo / Subham Kumar — AI & Computer Vision Engineer, solo full-stack builder
+> Based in India · CSE, Parul University (Class of 2027)
+```
+
 - **AI / Computer Vision Engineer** & solo full-stack builder
 - **Prompt Engineering & AI Power User**: I build with agentic workflows — spec'd, gated prompt documents executed step by step and reviewed before merging, not one-shot vibe coding
 - **AWS Certified**: Cloud Foundations & Solutions Architecture
 - Currently building **[Crawlers](https://crawlers.dpdns.org)** — an AI tools directory indexing 1,000+ tools across 45+ categories, organized by use case, not brand
 - Also shipped **[AuraWalls](https://aurawalls.qzz.io)** — a human-curated wallpaper discovery platform
 - And **[Airwaves](https://playit.morbius.workers.dev)** (formerly PlayIt) — a curated directory of 70+ independent web radio & soundscape projects, zero ads, no algorithms
-- Currently deepening: **Next.js 16, Supabase, Cloudflare Workers/Pages, Agentic Dev Workflows**
+- Right now: hardening Crawlers' SEO/Core Web Vitals and moving my profile widgets off shared free-tier hosts onto self-hosted instances
 - Open to collaborating on open-source AI tooling & full-stack web apps
 - Fun fact: my best code runs after midnight
 
 <br/>
 
-## Tech Stack & Tools
+## `02` · Tech Stack & Tools
 
 **Languages**
 <p>
@@ -92,30 +105,30 @@
 
 <br/>
 
-## GitHub Live Stats
+## `03` · GitHub Live Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SubhamPro11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamPro11&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SubhamPro11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=SubhamPro11&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamPro11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamPro11&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </div>
 
 <br/>
 
-## Trophies & Achievements
+## `04` · Trophies & Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SubhamPro11&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=SubhamPro11&theme=algolia&no-frame=true&no-bg=true&row=1" alt="GitHub Trophies" />
 </div>
 
 <br/>
 
-## Featured Projects
+## `05` · Featured Projects
 
 <table>
   <tr>
@@ -153,9 +166,15 @@
   </tr>
 </table>
 
+<div align="center">
+
+📌 Repo links & source: [github.com/SubhamPro11?tab=repositories](https://github.com/SubhamPro11?tab=repositories)
+
+</div>
+
 <br/>
 
-## Activity & Extras
+## `06` · Activity & Extras
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/SubhamPro11/SubhamPro11/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
@@ -169,13 +188,7 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?theme=radical" alt="Daily Dev Quote"/>
-</div>
-
-<br/>
-
-## Connect With Me
+## `07` · Connect
 
 <div align="center">
   <a href="https://linkedin.com/in/subhamkr11"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -188,7 +201,7 @@
 <br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1500&color=39FF14&center=true&vCenter=true&width=500&lines=%24+echo+%22thanks+for+stopping+by%22;%24+ssh+build+with+me" alt="Terminal sign-off"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1500&color=39FF14&center=true&vCenter=true&width=500&lines=%24+echo+%22thanks+for+stopping+by%22_;%24+ssh+build+with+me_" alt="Terminal sign-off"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e14,100:39FF14&height=100&section=footer" width="100%"/>

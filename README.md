@@ -46,7 +46,7 @@
 
 ## `03` · About
 
-- **AI / Computer Vision Engineer** and solo full-stack builder. Based in India · CSE, Parul University (Class of 2027)
+- **AI / Computer Vision Engineer** and solo full-stack builder. Based in India · CSE, Parul University (Class of 2028)
 - **Prompt engineering and AI power user**: I build with agentic workflows (spec'd, gated prompt documents executed step by step and reviewed before merging), not one-shot vibe coding
 - **AWS Certified**: Cloud Foundations and Solutions Architecture
 - Right now: hardening Crawlers' SEO and Core Web Vitals

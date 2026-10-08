@@ -45,14 +45,14 @@ p = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox=
      f'<rect width="{W}" height="{H}" rx="6" fill="{BG}"/>',
      f'<rect x=".5" y=".5" width="{W-1}" height="{H-1}" rx="6" fill="none" stroke="{FRAME}"/>',
      f'<line x1="0" y1="{BAR}" x2="{W}" y2="{BAR}" stroke="{FRAME}"/>',
-     f'<text x="{PAD}" y="20" font-size="13" fill="{MUTED}">{HANDLE}@github:~$ <tspan fill="{LIME}">./whoami.sh</tspan></text>']
+     f'<text x="{PAD}" y="20" font-size="13" fill="{MUTED}">{HANDLE}@github:~$ <tspan fill="{ACCENT}">./whoami.sh</tspan></text>']
 
 CELLW, CELLH = 15, 15
 y0 = BAR + 30
 for ri, row in enumerate(LOGO):
     for ci, ch in enumerate(row):
         if ch != " ":
-            p.append(f'<rect x="{PAD + ci*CELLW}" y="{y0 + ri*CELLH}" width="{CELLW-2}" height="{CELLH-2}" fill="{LIME}"/>')
+            p.append(f'<rect x="{PAD + ci*CELLW}" y="{y0 + ri*CELLH}" width="{CELLW-2}" height="{CELLH-2}" fill="{ACCENT}"/>')
 y = y0 + len(LOGO) * CELLH + 52
 sep = y - 22
 p.append(f'<line x1="{PAD}" y1="{sep}" x2="{W-PAD}" y2="{sep}" stroke="{FRAME}"/>')
@@ -63,7 +63,7 @@ for kind, a, b in LINES:
         y += LH // 2
         continue
     if kind == "p":
-        body = f'<tspan fill="{LIME}">$</tspan> <tspan fill="{INK}">{html.escape(a)}</tspan>'
+        body = f'<tspan fill="{ACCENT}">$</tspan> <tspan fill="{INK}">{html.escape(a)}</tspan>'
         svg = f'<text x="{PAD}" y="{y}" font-size="{FS}" fill="{MUTED}">{body}</text>'
         width = (len(a) + 2) * FS * 0.62
     else:
@@ -82,8 +82,8 @@ for kind, a, b in LINES:
     y += LH
 
 y += 6
-p.append(f'<text x="{PAD}" y="{y}" font-size="{FS}" fill="{LIME}">$</text>')
-p.append(f'<rect x="{PAD+FS*0.62*2}" y="{y-FS+3}" width="11" height="{FS}" fill="{LIME}">'
+p.append(f'<text x="{PAD}" y="{y}" font-size="{FS}" fill="{ACCENT}">$</text>')
+p.append(f'<rect x="{PAD+FS*0.62*2}" y="{y-FS+3}" width="11" height="{FS}" fill="{ACCENT}">'
          + ('' if STATIC else '<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.5;.51;1" dur="1s" repeatCount="indefinite"/>')
          + '</rect>')
 p.append("</svg>")

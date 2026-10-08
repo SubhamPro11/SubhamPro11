@@ -1,18 +1,21 @@
-"""Shared look for every generated card. Change colours here, re-run, done."""
+"""Shared look for every generated card. Change colours here, re-run, done.
+
+Palette: sage on charcoal. One accent, tinted neutrals, no pure black/white.
+"""
 import os
 
 USER = os.environ.get("GH_PROFILE_USER", "SubhamPro11")
 HANDLE = "cryo"                      # shown in the fake terminal prompts
 
-BG      = "#0a0e14"                  # page navy
-TILE    = "#0f151d"                  # raised panel
-FRAME   = "#1f2a37"                  # hairlines
-MUTED   = "#7d8a9c"
-INK     = "#d6dde8"
-LIME    = "#39FF14"                  # the one accent
+BG     = "#121413"                   # page charcoal
+TILE   = "#181b19"                   # raised panel
+FRAME  = "#2a2f2c"                   # hairlines
+MUTED  = "#8a9490"
+INK    = "#d8ddd3"
+ACCENT = "#9bbf7a"                   # sage, the only accent
 
-# GitHub's own 0-4 contribution levels, mapped onto navy -> lime
-RAMP = ["#111821", "#143d1a", "#1f7a21", "#2fc21a", "#39FF14"]
+# empty -> most active: same hue, getting brighter
+RAMP = ["#1b1f1c", "#2c3b2a", "#44603b", "#6f9654", "#9bbf7a"]
 
 FONT = "ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
 

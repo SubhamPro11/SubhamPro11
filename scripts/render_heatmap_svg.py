@@ -39,7 +39,7 @@ p.append(f'<rect width="{W}" height="{H}" rx="6" fill="{BG}"/>')
 p.append(f'<rect x=".5" y=".5" width="{W-1}" height="{H-1}" rx="6" fill="none" stroke="{FRAME}"/>')
 p.append(f'<line x1="0" y1="{BAR}" x2="{W}" y2="{BAR}" stroke="{FRAME}"/>')
 p.append(f'<text x="{PAD}" y="21" font-size="13" fill="{MUTED}">{HANDLE}@github:~$ '
-         f'<tspan fill="{LIME}">./contributions.sh</tspan></text>')
+         f'<tspan fill="{ACCENT}">./contributions.sh</tspan></text>')
 
 seen = set()
 for ci, c in enumerate(grid):
@@ -74,7 +74,7 @@ sy = ly + 28
 p.append(f'<line x1="0" y1="{sy}" x2="{W}" y2="{sy}" stroke="{FRAME}"/>')
 cs, ls, best = data["current_streak"]["length"], data["longest_streak"]["length"], data["best_day"]
 y1, y2 = sy + 26, sy + 52
-p.append(f'<text x="{PAD}" y="{y1}" font-size="13" fill="{MUTED}"><tspan fill="{LIME}" font-weight="700">'
+p.append(f'<text x="{PAD}" y="{y1}" font-size="13" fill="{MUTED}"><tspan fill="{ACCENT}" font-weight="700">'
          f'{data["total_contributions"]:,}</tspan> contributions in the last year</text>')
 p.append(f'<text x="{W-PAD}" y="{y1}" font-size="12" fill="{MUTED}" text-anchor="end">'
          f'{data["range"]["start"]} to {data["range"]["end"]}</text>')

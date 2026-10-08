@@ -26,7 +26,7 @@ def span(s):
 cur, lng, best = data["current_streak"], data["longest_streak"], data["best_day"]
 n_days = len(data["days"])
 tiles = [
-    ("current streak", cur["length"], " days", span(cur), LIME if cur["length"] else INK),
+    ("current streak", cur["length"], " days", span(cur), ACCENT if cur["length"] else INK),
     ("longest streak", lng["length"], " days", span(lng), INK),
     ("contributions", data["total_contributions"], "", "in the last year", INK),
     ("active days", data["active_days"], f" / {n_days}", f'{data["active_days"]/n_days:.0%} of the year', INK),
@@ -44,7 +44,7 @@ if not STATIC:
 p.append(f'<rect width="{W}" height="{H}" rx="6" fill="{BG}"/>')
 p.append(f'<rect x=".5" y=".5" width="{W-1}" height="{H-1}" rx="6" fill="none" stroke="{FRAME}"/>')
 p.append(f'<line x1="0" y1="{BAR}" x2="{W}" y2="{BAR}" stroke="{FRAME}"/>')
-p.append(f'<text x="{PAD}" y="20" font-size="13" fill="{MUTED}">{HANDLE}@github:~$ <tspan fill="{LIME}">./stats.sh</tspan></text>')
+p.append(f'<text x="{PAD}" y="20" font-size="13" fill="{MUTED}">{HANDLE}@github:~$ <tspan fill="{ACCENT}">./stats.sh</tspan></text>')
 
 
 def grp(delay):
@@ -92,7 +92,7 @@ peak = max(m["total"] for m in monthly) or 1
 for i, m in enumerate(monthly):
     h = max(2, (bot - top) * m["total"] / peak)
     bx = l + i * slot + (slot - bw) / 2
-    colr = LIME if m["total"] == peak else "#1f7a21"
+    colr = ACCENT if m["total"] == peak else RAMP[3]
     cls = "" if STATIC else f' class="b" style="animation-delay:{bar_start+i*0.06:.2f}s"'
     p.append(f'<rect{cls} x="{bx:.1f}" y="{bot-h:.1f}" width="{bw:.1f}" height="{h:.1f}" rx="2" fill="{colr}"/>')
     p.append(f'<text x="{bx+bw/2:.1f}" y="{bot+28}" fill="{MUTED}" font-size="15" text-anchor="middle">'

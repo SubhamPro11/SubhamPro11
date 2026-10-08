@@ -1,207 +1,184 @@
 <!-- ============================================================
-     PROFILE README — SubhamPro11
-     SYSTEM: ONLINE
+     PROFILE README: SubhamPro11
+     The three SVG cards below are generated, not hand-drawn.
+     Source: scripts/  ·  Workflow: .github/workflows/update-profile-art.yml
      ============================================================ -->
 
 <div align="center">
-<img width="600" height="338" alt="Morphic Coder Logo" src="https://github.com/user-attachments/assets/47b2275a-ebdd-4b7c-9c9b-10e84f0cd9fc"/>
 
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=%3E+AI+%26+Computer+Vision+Engineer_;%3E+Prompt+Engineer+%26+AI+Tooling_;%3E+Full-Stack+Builder+%7C+Next.js+%C2%B7+Python_;%3E+Shipping+Crawlers%2C+AuraWalls+%26+Airwaves_" alt="Typing SVG"/>
+<img width="560" alt="Morphic Coder logo" src="https://github.com/user-attachments/assets/47b2275a-ebdd-4b7c-9c9b-10e84f0cd9fc"/>
 
-<br/>
+<br>
+<br>
 
-<!-- Status strip -->
-<img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=0a0e14"/>
-<img src="https://img.shields.io/badge/BUILD-PASSING-39FF14?style=for-the-badge&labelColor=0a0e14"/>
-<img src="https://img.shields.io/badge/UPTIME-24%2F7-39FF14?style=for-the-badge&labelColor=0a0e14"/>
-
-<br/><br/>
-
-<!-- Social badges -->
-[![GitHub](https://img.shields.io/badge/GitHub-SubhamPro11-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SubhamPro11)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhamkr11)
-[![Crawlers](https://img.shields.io/badge/Crawlers-Visit-39FF14?style=for-the-badge&logo=googlechrome&logoColor=black)](https://crawlers.dpdns.org)
-[![Airwaves](https://img.shields.io/badge/Airwaves-Listen-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://playit.morbius.workers.dev)
-
-![Profile Views](https://komarev.com/ghpvc/?username=SubhamPro11&style=for-the-badge&color=39FF14&labelColor=0a0e14)
+<code>AI &amp; Computer Vision Engineer · Full-stack builder · Prompt engineer</code>
 
 </div>
 
-<br/>
+<br>
 
-## `01` · About Me
+## `01` · Contributions
 
-```
-$ whoami
-> Cryo / Subham Kumar — AI & Computer Vision Engineer, solo full-stack builder
-> Based in India · CSE, Parul University (Class of 2027)
-```
+<div align="center">
 
-- **AI / Computer Vision Engineer** & solo full-stack builder
-- **Prompt Engineering & AI Power User**: I build with agentic workflows — spec'd, gated prompt documents executed step by step and reviewed before merging, not one-shot vibe coding
-- **AWS Certified**: Cloud Foundations & Solutions Architecture
-- Currently building **[Crawlers](https://crawlers.dpdns.org)** — an AI tools directory indexing 1,000+ tools across 45+ categories, organized by use case, not brand
-- Also shipped **[AuraWalls](https://aurawalls.qzz.io)** — a human-curated wallpaper discovery platform
-- And **[Airwaves](https://playit.morbius.workers.dev)** (formerly PlayIt) — a curated directory of 70+ independent web radio & soundscape projects, zero ads, no algorithms
-- Right now: hardening Crawlers' SEO/Core Web Vitals and moving my profile widgets off shared free-tier hosts onto self-hosted instances
-- Open to collaborating on open-source AI tooling & full-stack web apps
+<!-- real data from my public contribution calendar, rebuilt daily -->
+<img src="./contrib-heatmap.svg" width="860" alt="Cryo's GitHub contribution graph, refreshed daily"/>
+
+</div>
+
+<br>
+
+## `02` · whoami
+
+<div align="center">
+
+<!-- both cards are 840x880, so equal widths give equal heights -->
+<table>
+<tr>
+<td valign="top"><img src="./whoami.svg" width="420" alt="Cryo: AI and computer vision engineer, solo full-stack builder"/></td>
+<td valign="top"><img src="./stats.svg" width="420" alt="Cryo's contribution streaks and monthly totals, refreshed daily"/></td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+## `03` · About
+
+- **AI / Computer Vision Engineer** and solo full-stack builder. Based in India · CSE, Parul University (Class of 2027)
+- **Prompt engineering and AI power user**: I build with agentic workflows (spec'd, gated prompt documents executed step by step and reviewed before merging), not one-shot vibe coding
+- **AWS Certified**: Cloud Foundations and Solutions Architecture
+- Right now: hardening Crawlers' SEO and Core Web Vitals
+- Open to collaborating on open-source AI tooling and full-stack web apps
 - Fun fact: my best code runs after midnight
 
-<br/>
+<br>
 
-## `02` · Tech Stack & Tools
-
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-</p>
-
-**Frameworks & Libraries**
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-</p>
-
-**AI, Agents & Automation**
-<p>
-  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-39FF14?style=for-the-badge&logo=openai&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AI_Agents_%26_MCP-10a37f?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
-
-**Databases**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-</p>
-
-**Tools / DevOps**
-<p>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
-</p>
-
-**Certifications**
-<p>
-  <img src="https://img.shields.io/badge/AWS_Cloud_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_Solutions_Architecture-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
-
-<br/>
-
-## `03` · GitHub Live Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SubhamPro11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=SubhamPro11&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamPro11&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
-</div>
-
-<br/>
-
-## `04` · Trophies & Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=SubhamPro11&theme=algolia&no-frame=true&no-bg=true&row=1" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-## `05` · Featured Projects
+## `04` · Shipping
 
 <table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Stack</th>
-    <th>Links</th>
-  </tr>
-  <tr>
-    <td>🕸️ <b>Crawlers</b></td>
-    <td>AI tools directory — 1,000+ tools across 45+ categories, organized by use case</td>
-    <td>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
-    </td>
-    <td><a href="https://crawlers.dpdns.org">Live Demo</a></td>
-  </tr>
-  <tr>
-    <td>🖼️ <b>AuraWalls</b></td>
-    <td>Human-curated wallpaper discovery platform</td>
-    <td>
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
-    </td>
-    <td><a href="https://aurawalls.qzz.io">Live Demo</a></td>
-  </tr>
-  <tr>
-    <td>📻 <b>Airwaves</b></td>
-    <td>Curated directory of 70+ independent web radio &amp; soundscape projects — no algorithms, zero ads</td>
-    <td>
-      <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
-    </td>
-    <td><a href="https://playit.morbius.workers.dev">Live Demo</a></td>
-  </tr>
+<tr>
+  <th align="left">Project</th>
+  <th align="left">What it is</th>
+  <th align="left">Built with</th>
+  <th align="left">Links</th>
+</tr>
+<tr>
+  <td><b>Crawlers</b></td>
+  <td>AI tools directory: 1,000+ tools across 45+ categories, organized by use case, not brand. My main project right now</td>
+  <td>
+    <img src="https://img.shields.io/badge/Next.js-111821?style=flat-square&logo=nextdotjs&logoColor=39FF14" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/Supabase-111821?style=flat-square&logo=supabase&logoColor=39FF14" alt="Supabase"/>
+    <img src="https://img.shields.io/badge/Cloudflare-111821?style=flat-square&logo=cloudflare&logoColor=39FF14" alt="Cloudflare"/>
+  </td>
+  <td><a href="https://crawlers.dpdns.org">Live</a></td>
+</tr>
+<tr>
+  <td><b>AuraWalls</b></td>
+  <td>Human-curated wallpaper discovery platform</td>
+  <td>
+    <img src="https://img.shields.io/badge/Supabase-111821?style=flat-square&logo=supabase&logoColor=39FF14" alt="Supabase"/>
+    <img src="https://img.shields.io/badge/Cloudflare-111821?style=flat-square&logo=cloudflare&logoColor=39FF14" alt="Cloudflare"/>
+  </td>
+  <td><a href="https://aurawalls.qzz.io">Live</a></td>
+</tr>
+<tr>
+  <td><b>Airwaves</b><br><sub>formerly PlayIt</sub></td>
+  <td>Curated directory of 70+ independent web radio and soundscape projects. Zero ads, no algorithms</td>
+  <td>
+    <img src="https://img.shields.io/badge/Cloudflare_Workers-111821?style=flat-square&logo=cloudflare&logoColor=39FF14" alt="Cloudflare Workers"/>
+  </td>
+  <td><a href="https://playit.morbius.workers.dev">Live</a></td>
+</tr>
+<tr>
+  <td><b>LockscreenGif</b></td>
+  <td>Windows 11 tool that sets animated GIFs and videos as the lock screen. I maintain this build of <a href="https://github.com/Leapward-Koex/LockscreenGif">Leapward-Koex's original</a>, with its own site</td>
+  <td>
+    <img src="https://img.shields.io/badge/.NET_10-111821?style=flat-square&logo=dotnet&logoColor=39FF14" alt=".NET 10"/>
+    <img src="https://img.shields.io/badge/Cloudflare_Workers-111821?style=flat-square&logo=cloudflare&logoColor=39FF14" alt="Cloudflare Workers"/>
+  </td>
+  <td><a href="https://lockscreen-gtf-web.morbius.workers.dev">Live</a> · <a href="https://github.com/SubhamPro11/lockscreengtf">Source</a></td>
+</tr>
 </table>
 
 <div align="center">
 
-📌 Repo links & source: [github.com/SubhamPro11?tab=repositories](https://github.com/SubhamPro11?tab=repositories)
+<sub>All repos: <a href="https://github.com/SubhamPro11?tab=repositories">github.com/SubhamPro11?tab=repositories</a></sub>
 
 </div>
 
-<br/>
+<br>
 
-## `06` · Activity & Extras
+## `05` · Stack
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/C-111821?style=flat-square&logo=c&logoColor=39FF14" alt="C"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-111821?style=flat-square&logo=cplusplus&logoColor=39FF14" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-111821?style=flat-square&logo=openjdk&logoColor=39FF14" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-111821?style=flat-square&logo=python&logoColor=39FF14" alt="Python"/>
+  <img src="https://img.shields.io/badge/TypeScript-111821?style=flat-square&logo=typescript&logoColor=39FF14" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Markdown-111821?style=flat-square&logo=markdown&logoColor=39FF14" alt="Markdown"/>
+</p>
+
+**Frameworks &amp; libraries**
+<p>
+  <img src="https://img.shields.io/badge/Next.js-111821?style=flat-square&logo=nextdotjs&logoColor=39FF14" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-111821?style=flat-square&logo=react&logoColor=39FF14" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111821?style=flat-square&logo=tailwindcss&logoColor=39FF14" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Django-111821?style=flat-square&logo=django&logoColor=39FF14" alt="Django"/>
+  <img src="https://img.shields.io/badge/Flask-111821?style=flat-square&logo=flask&logoColor=39FF14" alt="Flask"/>
+  <img src="https://img.shields.io/badge/OpenCV-111821?style=flat-square&logo=opencv&logoColor=39FF14" alt="OpenCV"/>
+</p>
+
+**AI, agents &amp; automation**
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-111821?style=flat-square&logo=anthropic&logoColor=39FF14" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/Cursor-111821?style=flat-square&logo=cursor&logoColor=39FF14" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/OpenAI_Codex-111821?style=flat-square&logo=openai&logoColor=39FF14" alt="OpenAI Codex"/>
+  <img src="https://img.shields.io/badge/n8n-111821?style=flat-square&logo=n8n&logoColor=39FF14" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-111821?style=flat-square&logo=openai&logoColor=39FF14" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/AI_Agents_%26_MCP-111821?style=flat-square&logo=openai&logoColor=39FF14" alt="AI Agents &amp; MCP"/>
+</p>
+
+**Databases**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-111821?style=flat-square&logo=postgresql&logoColor=39FF14" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-111821?style=flat-square&logo=mysql&logoColor=39FF14" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Supabase-111821?style=flat-square&logo=supabase&logoColor=39FF14" alt="Supabase"/>
+</p>
+
+**Tools &amp; DevOps**
+<p>
+  <img src="https://img.shields.io/badge/Cloudflare-111821?style=flat-square&logo=cloudflare&logoColor=39FF14" alt="Cloudflare"/>
+  <img src="https://img.shields.io/badge/Docker-111821?style=flat-square&logo=docker&logoColor=39FF14" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-111821?style=flat-square&logo=git&logoColor=39FF14" alt="Git"/>
+  <img src="https://img.shields.io/badge/PyCharm-111821?style=flat-square&logo=pycharm&logoColor=39FF14" alt="PyCharm"/>
+</p>
+
+**Certifications**
+<p>
+  <img src="https://img.shields.io/badge/AWS_Cloud_Foundations-111821?style=flat-square&logo=amazonaws&logoColor=39FF14" alt="AWS Cloud Foundations"/>
+  <img src="https://img.shields.io/badge/AWS_Solutions_Architecture-111821?style=flat-square&logo=amazonaws&logoColor=39FF14" alt="AWS Solutions Architecture"/>
+</p>
+
+<br>
+
+## `06` · Connect
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SubhamPro11/SubhamPro11/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+
+  <a href="https://github.com/SubhamPro11"><img src="https://img.shields.io/badge/GitHub-111821?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/subhamkr11"><img src="https://img.shields.io/badge/LinkedIn-111821?style=for-the-badge&logo=linkedin&logoColor=39FF14" alt="LinkedIn"/></a>
+  <a href="https://crawlers.dpdns.org"><img src="https://img.shields.io/badge/Crawlers-111821?style=for-the-badge&logo=googlechrome&logoColor=39FF14" alt="Crawlers"/></a>
+  <a href="https://aurawalls.qzz.io"><img src="https://img.shields.io/badge/AuraWalls-111821?style=for-the-badge&logo=vercel&logoColor=39FF14" alt="AuraWalls"/></a>
+  <a href="https://playit.morbius.workers.dev"><img src="https://img.shields.io/badge/Airwaves-111821?style=for-the-badge&logo=cloudflare&logoColor=39FF14" alt="Airwaves"/></a>
+  <a href="https://lockscreen-gtf-web.morbius.workers.dev"><img src="https://img.shields.io/badge/LockscreenGif-111821?style=for-the-badge&logo=windows&logoColor=39FF14" alt="LockscreenGif"/></a>
+
+<br>
+<br>
+
+<code>$ ssh build with me_</code>
+
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubhamPro11&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph"/>
-</div>
-
-<br/>
-
-## `07` · Connect
-
-<div align="center">
-  <a href="https://linkedin.com/in/subhamkr11"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/SubhamPro11"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://crawlers.dpdns.org"><img src="https://img.shields.io/badge/Crawlers-39FF14?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
-  <a href="https://aurawalls.qzz.io"><img src="https://img.shields.io/badge/AuraWalls-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://playit.morbius.workers.dev"><img src="https://img.shields.io/badge/Airwaves-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/></a>
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1500&color=39FF14&center=true&vCenter=true&width=500&lines=%24+echo+%22thanks+for+stopping+by%22_;%24+ssh+build+with+me_" alt="Terminal sign-off"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e14,100:39FF14&height=100&section=footer" width="100%"/>

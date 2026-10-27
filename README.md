@@ -1,7 +1,7 @@
 <!-- ============================================================
      PROFILE README: SubhamPro11
-     The three SVG cards below are generated, not hand-drawn.
-     Source: scripts/  ·  Workflow: .github/workflows/update-profile-art.yml
+     The four SVG cards below are generated, not hand-drawn.
+     Source: scripts/  ·  Workflows: .github/workflows/
      ============================================================ -->
 
 <div align="center">
@@ -23,6 +23,12 @@
 
 <!-- real data from my public contribution calendar, rebuilt daily -->
 <img src="./contrib-heatmap.svg" width="860" alt="Cryo's GitHub contribution graph, refreshed daily"/>
+
+<br>
+<br>
+
+<!-- same data as a city: every day is a building, taller = more commits -->
+<img src="./skyline.svg" width="860" alt="Cryo's contributions drawn as an animated city skyline, refreshed daily"/>
 
 </div>
 
